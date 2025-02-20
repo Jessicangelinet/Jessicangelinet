@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Jessicangelinet/Jessicangelinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![](https://raw.githubusercontent.com/jessicangelinet/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jessicangelinet/github-stats/master/generated/overview.svg#gh-light-mode-only)

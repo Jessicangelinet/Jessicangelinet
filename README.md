@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am a Data Analyst/Business Intelligence Engineer💻💻
 
 
 Here are some ideas to get you started:
